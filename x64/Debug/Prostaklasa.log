@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (Prostaklasa.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  imgui.cpp
+  Graphics.cpp
+  ImGuiRender.cpp
+  ImGuiSetup.cpp
+  Menu.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Generowanie kodu...
+  Prostaklasa.vcxproj -> C:\Users\Rob\Desktop\DrawSth\Build\DrawSth.exe

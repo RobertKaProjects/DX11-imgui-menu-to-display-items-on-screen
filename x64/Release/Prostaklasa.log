@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: Katalog pośredni (x64\Release\) zawiera pliki udostępnione z innego projektu (Prostaklasa.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+  Trwa generowanie kodu
+  0 of 1601 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Prostaklasa.vcxproj -> C:\Users\Rob\Desktop\empty\uj\x64\Release\DrawSth.exe

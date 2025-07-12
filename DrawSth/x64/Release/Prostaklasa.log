@@ -1,0 +1,17 @@
+﻿  imgui.cpp
+  Graphics.cpp
+  ImGuiRender.cpp
+  ImGuiSetup.cpp
+  Menu.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 1601 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Prostaklasa.vcxproj -> C:\Users\Rob\Desktop\DrawSthh\x64\Release\DrawSth.exe

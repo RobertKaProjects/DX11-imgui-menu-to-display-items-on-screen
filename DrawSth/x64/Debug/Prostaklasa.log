@@ -1,0 +1,15 @@
+﻿  imgui.cpp
+  Graphics.cpp
+  ImGuiRender.cpp
+  ImGuiSetup.cpp
+  Menu.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\Rob\Desktop\DrawSthh\Build\DrawSth.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  Prostaklasa.vcxproj -> C:\Users\Rob\Desktop\DrawSthh\Build\DrawSth.exe

@@ -1,0 +1,7 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+duzy_plik.zip filter=lfs diff=lfs merge=lfs -text
+DrawSth.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.7z filter=lfs diff=lfs merge=lfs -text
+DrawSth.7z filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
